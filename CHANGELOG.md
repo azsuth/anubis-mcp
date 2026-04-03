@@ -2,6 +2,13 @@
 
 All notable changes to this project are documented in this file.
 
+## [1.0.1](https://github.com/zoedsoupe/anubis-mcp/compare/v1.0.0...v1.0.1) (2026-04-03)
+
+
+### Documentation
+
+* correct supervision tree setup ([#118](https://github.com/zoedsoupe/anubis-mcp/issues/118)) ([ae2560a](https://github.com/zoedsoupe/anubis-mcp/commit/ae2560a8a7fd85847557ac21fc978e15dc5f7995))
+
 ## [1.0.0](https://github.com/zoedsoupe/anubis-mcp/compare/v0.17.1...v1.0.0) (2026-03-16)
 
 
